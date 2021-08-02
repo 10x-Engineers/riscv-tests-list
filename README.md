@@ -4,9 +4,9 @@ This document enlist various riscv tests present on github.
 
 Anyone can add to the list and correct the inaccuracies.
 
-## Cores
+## Test List
 
-Repository | Extensions/Tests | Tested on ISS | Github Link | Test Language | Comment
+Repository | Extensions/Tests | Tested on ISS | Github Link | Test Language
 -------- | -------- | -------- | -------- | -------- | --------
 riscv-tests  | RV32IMACFD, RV64IMACFD | Spike | [GitHub](https://github.com/riscv/riscv-tests) | C, Assembly
 riscv-bitmapip  | RV32B, RV64B | riscvOVPsim, Spike | [GitHub](https://github.com/eroom1966/riscv-bitmanip) | C, Assembly
